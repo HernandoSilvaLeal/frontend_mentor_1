@@ -101,7 +101,7 @@ input, select {
     display: flex;
     max-width: 100%;
     background-color: #D5E1EF;
-    height: 97vh;
+    height: 100vh;
     align-items: center;
     justify-content: center;
 }
@@ -134,7 +134,7 @@ input, select {
     margin: 20px;
     margin-top: 25px;
     margin-bottom: 35px;
-    font-size: 22px;
+    font-size: 19px;
     text-align: center;
     font-family: 'Recursive', sans-serif;
     font-weight: bold;
@@ -147,7 +147,7 @@ input, select {
     justify-content: center;
     flex-wrap: wrap;
     margin: 5px;
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     color: #9B9BA2;
